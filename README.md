@@ -1,16 +1,23 @@
-# nakhwa
+# Nakhwa Application
 
-A new Flutter project.
+Nakhwa is an intelligent application designed to support Saudi citizens abroad during emergencies using AI and real-time data.
 
-## Getting Started
+## Features
+- Emergency alerts and notifications
+- Legal consultation chatbot
+- Interactive maps
+- Quick access to emergency services
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Firebase
+- Firestore
 
-A few resources to get you started if this is your first Flutter project:
+## Project Description
+This application helps users respond quickly to emergencies by providing real-time alerts, legal support, and access to important services in one platform.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+(Add your screenshots here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Lina Turki
